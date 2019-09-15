@@ -2,26 +2,27 @@
 layout: post
 categories: posts
 title: "클라우드 컴퓨팅 기술인재 양성과정 포트폴리오"
-subtitle: Network.
+subtitle: network
 tags: [sample post, readability, test, intro]
 date-string: SEPTEMBER 15, 2019
 ---
 
 cisco packet tracer - 6.0.1
 
-switch - 2960(3번째 선택)
-![ex_network Image1](./images/network/switch.png)
+switch - 2960(3번째 선택)<br>
+![switch](./images/network/switch.png)
 
 
-router - 2621XM(4번째 선택)
-![ex_network Image2](./images/network/router.png)
+router - 2621XM(4번째 선택)<br>
+![router](./images/network/router.png)
 
 
 // 라우터 포트 3개 이상 설정할 경우
-power off 후 NM-2FE2W 드래그 한 후 power on
-![ex_network Image3](./images/network/router_setting.png)
+power off 후 NM-2FE2W 드래그 한 후 power on<br>
+![router_setting](./images/network/router_setting.png)
 
 
+---------------------------------------------------------
 
 빠져나오기 - ctr + shift + 6
 
